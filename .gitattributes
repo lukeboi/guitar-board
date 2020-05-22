@@ -1,0 +1,2 @@
+*.PcbDoc filter=lfs diff=lfs merge=lfs -text
+*.SchDoc filter=lfs diff=lfs merge=lfs -text
