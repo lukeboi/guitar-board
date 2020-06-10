@@ -1,0 +1,5 @@
+*.SchDocPreview
+*.PrjPcbStructure
+__Previews/
+Project Logs for */
+*.htm
